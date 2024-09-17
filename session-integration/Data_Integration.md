@@ -302,7 +302,8 @@ p1+p2
 ```
 
 ![](Data_Integration_files/figure-gfm/clust_integrated-1.png)<!-- -->
-\### Seurat v5 (CCA) stream-lined integration
+
+### Seurat v5 (CCA) stream-lined integration
 
 In Seurat version 5, the authors introduced a streamlined one-liner for
 integrating single-cell data. This command directly outputs a corrected

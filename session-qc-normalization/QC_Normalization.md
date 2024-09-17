@@ -2,7 +2,7 @@ Quality Control and Normalization
 ================
 
 Created by: Ahmed Mahfouz  
-Edited by: Mohammed Charrout, Lieke Michielsen
+Edited by: Mohammed Charrout, Lieke Michielsen, Claudio Novella-Rausell
 
 # Overview
 
