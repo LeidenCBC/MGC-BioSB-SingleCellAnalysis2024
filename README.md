@@ -6,6 +6,12 @@ The course features a mix of lectures and practicals, and you will have the oppo
 
 ### [Programme](Programme.md)
 
+### Prerequisities
+Basic knowledge of R is a prerequisite for participation in the course.
+
+### Software and Data
+For this course, we make use of Posit (previously RStudio Cloud). All you need for this is a browser. **Please bring your own laptop**. You will receive more instructions at the beginning of the course.
+
 ### Date
 28 October – 1 November, 2024
 
@@ -19,11 +25,6 @@ Room: CQ-1Da
 
 ![image](./Gebouw_GK.PNG)
 
-### Prerequisities
-Basic knowledge of R is a prerequisite for participation in the course.
-
-### Software and Data
-For this course, we make use of Posit (previously RStudio Cloud). All you need for this is a browser. **Please bring your own laptop**. You will receive more instructions at the beginning of the course.
 
 ### Lecturers
 - Susan Kloet (LUMC)
