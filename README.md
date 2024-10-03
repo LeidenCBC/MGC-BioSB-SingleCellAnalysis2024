@@ -18,9 +18,8 @@ For this course, we make use of Posit (previously RStudio Cloud). All you need f
 ### Location
 *This course will take place in-person only*
 
-Location: Erasmus MC, Rotterdam 
-Erasmus MC Rochussenstraat (gebouw Gk)
-Burg. s’ Jacobplein 51, 3015 CA Rotterdam
+Location: Erasmus MC, Rotterdam  
+Erasmus MC Rochussenstraat (gebouw Gk)   
 Room: CQ-1Da
 
 ![image](./Gebouw_GK.PNG)
