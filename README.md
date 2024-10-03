@@ -4,6 +4,8 @@ This 4-day course will cover the practicalities of single-cell sample prep and a
 
 The course features a mix of lectures and practicals, and you will have the opportunity to perform hands-on analysis of scRNA-seq data in R. Topics to be covered in the course include (but not limited to): an overview of different single cell platforms, experimental design, preprocessing of scRNA-seq data, normalization, dimensionality reduction, clustering, batch correction, differential expression, trajectory inference, and spatial transcriptomics. The forth day of the course will also include a mini-symposium featuring guest lectures from scientists using various single-cell techniques in their research.
 
+### [Programme](Programme.md)
+
 ### Date
 28 October – 1 November, 2024
 
@@ -15,9 +17,7 @@ Erasmus MC Rochussenstraat (gebouw Gk)
 Burg. s’ Jacobplein 51, 3015 CA Rotterdam
 Room: CQ-1Da
 
-![image](Gebouw_GK.png)
-
-### [Programme](Programme.md)
+![image](./Gebouw_GK.PNG)
 
 ### Prerequisities
 Basic knowledge of R is a prerequisite for participation in the course.
