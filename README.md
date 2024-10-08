@@ -13,14 +13,14 @@ Basic knowledge of R is a prerequisite for participation in the course.
 For this course, we make use of Posit (previously RStudio Cloud). All you need for this is a browser. **Please bring your own laptop**. You will receive more instructions at the beginning of the course.
 
 ### Date
-29 October – 1 November, 2024
+28 October – 1 November, 2024
 
 ### Location
 *This course will take place in-person only*
 
 Location: Erasmus MC, Rotterdam  
-Erasmus MC Rochussenstraat (gebouw Gk)   
-Room: CQ-1Da
+Erasmus MC Rochussenstraat (gebouw Gk - Room: CQ-1Da)  
+Address: Burg. s’ Jacobplein 51, 3015 CA Rotterdam  
 
 ![image](./Gebouw_GK.PNG)
 

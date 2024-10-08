@@ -34,7 +34,7 @@
 |09:00-10:00 |Lecture: [Data integration](Lectures/Day3_Data_Integration_Abdelaal_2023.pdf) | Tamim Abdelaal |
 |10:00-10:15 |_break_ |  |
 |10:15-11:15 |Practical: [Data integration](./session-integration/Data_Integration.md) | TAs |
-|11:15-12:00 |Lecture: [Differential expression analysis](Lectures/Day3_Differential_expression_analysis_Mahfouz.pdf) | Ahmed Mahfouz |
+|11:15-12:00 |Lecture: [Differential expression analysis](Lectures/Day3_Differential_expression_analysis_Mahfouz.pdf) | Kirti Biharie |
 |12:00-13:00 |_lunch_ |  |
 |13:00-14:00 |Practical: [Differential expression analysis](./session-differentialexpression/Differential_Expression.md) | TAs |
 |14:00-14:15 |_break_ | |
