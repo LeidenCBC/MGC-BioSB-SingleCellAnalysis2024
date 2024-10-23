@@ -48,8 +48,8 @@
 |09:00-09:45 |Lecture: [Trajectory inference](session-trajectories/session-trajectories.md) | Ahmed Mahfouz |
 |09:45-10:45 |Practical: [Trajectory inference](./session-trajectories/session-trajectories.md) | TAs |
 |10:45-11:00 |_break_ |  |
-|11:00-11:45 |Mini Symposium (Jessica Roelands) |
-|11:45-12:30 |Mini Symposium (Wouter van der Valk) |
+|11:00-11:45 |Reconstructing colorectal cancer tumorigenesis with spatially-resolved gene expression profiling | Jessica Roelands (LUMC) |
+|11:45-12:30 |Understanding a human inner ear in vitro model using transcriptomics | Wouter van der Valk (LUMC) |
 |12:30-13:30 |_lunch_ |  |
 
 ## [Back to main](README.md)
