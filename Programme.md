@@ -3,7 +3,7 @@
 ### Day 1 (Tuesday 29.10.2024)
 | When | What | Who |
 | ------------- | ------------- | ------------- |
-|09:00-10:00 |Lecture: [Overview of different single-cell platforms and assays](Lectures/Day1_Overview_single_cell_sequencing_Kloet_2023.pdf) | Susan Kloet |
+|09:00-10:00 |Lecture: [Overview of different single-cell platforms and assays](Lectures/Day1_Overview_single_cell_sequencing_Kloet_2024.pdf) | Susan Kloet |
 |10:00-10:15 |_break_ |  |
 |10:15-11:15 |Lecture: [scRNA-seq platforms](Lectures/Day1_scRNAseq_platforms_MPChien_2023.pdf) | Miao-Ping Chien |
 |11:15-12:00 |Lecture: [Preprocessing](Lectures/Day1_SingleCell_pre-process_2023.pdf) | Roberta Menafra |
