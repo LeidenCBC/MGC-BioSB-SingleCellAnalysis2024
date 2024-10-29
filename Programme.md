@@ -8,7 +8,7 @@
 |10:15-11:15 |Lecture: [scRNA-seq platforms](Lectures/Day1_scRNAseq_platforms_MPChien_2024.pdf) | Miao-Ping Chien |
 |11:15-12:00 |Lecture: [Preprocessing](Lectures/Day1_SingleCell_pre-process_2023.pdf) | Roberta Menafra |
 |12:00-13:30 |_lunch + introductions_ |  |
-|13:30-14:30 |Lecture: [Quality control and normalization](Lectures/Day1_dimensionality_reduction_Reinders.pdf) | Mikhael Manurung |
+|13:30-14:30 |Lecture: [Quality control and normalization](Lectures/Day1_QC_normalization_Manurung.pdf) | Mikhael Manurung |
 |14:30-14:45 |_break_| |
 |14:45-15:45 |Practical: [Mikhael Manurung](./session-qc-normalization/QC_Normalization.md) | TAs |
 |16:00-17:00 |Online Lecture: scNL symposium | Helder Nakaya |
