@@ -10,7 +10,7 @@
 |12:00-13:30 |_lunch + introductions_ |  |
 |13:30-14:30 |Lecture: [Quality control and normalization](Lectures/Day1_QC_normalization_Manurung.pdf) | Mikhael Manurung |
 |14:30-14:45 |_break_| |
-|14:45-15:45 |Practical: [Mikhael Manurung](./session-qc-normalization/QC_Normalization.md) | TAs |
+|14:45-15:45 |Practical: [Quality control and normalization](./session-qc-normalization/QC_Normalization.md) | TAs |
 |16:00-17:00 |Online Lecture: scNL symposium | Helder Nakaya |
 
 ### Day 2 (Wednesday 30.10.2024)
