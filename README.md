@@ -13,7 +13,7 @@ Basic knowledge of R is a prerequisite for participation in the course.
 For this course, we make use of Posit (previously RStudio Cloud). All you need for this is a browser. **Please bring your own laptop**. You will receive more instructions at the beginning of the course.
 
 ### Date
-28 October – 1 November, 2024
+29 October – 1 November, 2024
 
 ### Location
 *This course will take place in-person only*
@@ -35,6 +35,7 @@ Address: Burg. s’ Jacobplein 51, 3015 CA Rotterdam
 - Alexander Vieth (LUMC)
 - Roberta Menafra (LUMC)
 - Anne Alemany (LUMC)
+- Kirti Biharie (TU Delft/LUMC)
 
 ### Teaching Assistants
 - Claudio Novella Rausell (LUMC)
