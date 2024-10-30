@@ -16,7 +16,7 @@
 ### Day 2 (Wednesday 30.10.2024)
 | When | What | Who |
 | ------------- | ------------- | ------------- |
-|09:00-10:00 |Lecture: [Single-cell multi-omics](Lectures/Day2_Multiomics_MPChien_2023.pdf) | Miao-Ping Chien |
+|09:00-10:00 |Lecture: [Single-cell multi-omics](Lectures/Day2_Multiomics_MPChien_2024.pdf) | Miao-Ping Chien |
 |10:00-10:15 |_break_ |  |
 |10:15-11:00 |Lecture: [Experimental design & sample preparation](Lectures/Day2_Sample_prep_and_experimental_design_Kloet.pdf) | Susan Kloet |
 |11:00-12:00 |Lecture: [Dimensionality reduction](Lectures/Day2_QC_normalization_Mahfouz.pdf) | Alexander Vieth |
