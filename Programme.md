@@ -19,7 +19,7 @@
 |09:00-10:00 |Lecture: [Single-cell multi-omics](Lectures/Day2_Multiomics_MPChien_2024.pdf) | Miao-Ping Chien |
 |10:00-10:15 |_break_ |  |
 |10:15-11:00 |Lecture: [Experimental design & sample preparation](Lectures/Day2_Sample_prep_and_experimental_design_Kloet.pdf) | Susan Kloet |
-|11:00-12:00 |Lecture: [Dimensionality reduction](Lectures/Day2_QC_normalization_Mahfouz.pdf) | Alexander Vieth |
+|11:00-12:00 |Lecture: [Dimensionality reduction](Lectures/Day2_Dimentionality_reduction_Vieth_2024.pdf) | Alexander Vieth |
 |12:00-13:00 |_lunch_ |  |
 |13:00-14:30 |Practical: [Dimensionality reduction](./session-dimensionalityreduction/Dimensionality_Reduction.md) | TAs |
 |14:30-14:45 |_break_ | |
