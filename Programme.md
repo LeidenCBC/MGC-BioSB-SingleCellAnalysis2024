@@ -31,7 +31,7 @@
 ### Day 3 (Thursday 31.10.2024) 
 | When | What | Who |
 | ------------- | ------------- | ------------- |
-|09:00-10:00 |Lecture: [Data integration](Lectures/Day3_Data_Integration_Abdelaal_2023.pdf) | Tamim Abdelaal |
+|09:00-10:00 |Lecture: [Data integration](Lectures/Day3_Data_Integration_Abdelaal_2024.pdf) | Tamim Abdelaal |
 |10:00-10:15 |_break_ |  |
 |10:15-11:15 |Practical: [Data integration](./session-integration/Data_Integration.md) | TAs |
 |11:15-12:00 |Lecture: [Differential expression analysis](Lectures/Day3_Differential_expression_analysis_Mahfouz.pdf) | Kirti Biharie |
