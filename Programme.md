@@ -23,7 +23,7 @@
 |12:00-13:00 |_lunch_ |  |
 |13:00-14:30 |Practical: [Dimensionality reduction](./session-dimensionalityreduction/Dimensionality_Reduction.md) | TAs |
 |14:30-14:45 |_break_ | |
-|14:45-15:45 |Lecture: [Clustering and cell annotation](Lectures/Day2_clustering_Michielsen.pdf) | Claudio Novella rausell |
+|14:45-15:45 |Lecture: [Clustering and cell annotation](Lectures/Day2_clustering_Novella_Rausell_2024.pdf) | Claudio Novella rausell |
 |15:45-16:00 |_break_ | |
 |16:00-17:00 |Practical: [Clustering and cell annotation](./session-clustering/Clustering.md) | TAs |
 
