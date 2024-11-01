@@ -34,18 +34,18 @@
 |09:00-10:00 |Lecture: [Data integration](Lectures/Day3_Data_Integration_Abdelaal_2024.pdf) | Tamim Abdelaal |
 |10:00-10:15 |_break_ |  |
 |10:15-11:15 |Practical: [Data integration](./session-integration/Data_Integration.md) | TAs |
-|11:15-12:00 |Lecture: [Differential expression analysis](Lectures/Day3_Differential_expression_analysis_Mahfouz.pdf) | Kirti Biharie |
+|11:15-12:00 |Lecture: [Differential expression analysis](Lectures/Day3_Differential_expression_analysis_Biharie.pdf) | Kirti Biharie |
 |12:00-13:00 |_lunch_ |  |
 |13:00-14:00 |Practical: [Differential expression analysis](./session-differentialexpression/Differential_Expression.md) | TAs |
 |14:00-14:15 |_break_ | |
-|14:15-15:45 |Lecture: [Spatial transcriptomics](Lectures/Day4_SpatialTranscriptomics_Heezen.pdf) | Anne Alemany |
+|14:15-15:45 |Lecture: [Spatial transcriptomics](Lectures/Day3_SpatialTranscriptomics_Alemany.pdf) | Anne Alemany |
 |15:45-16:00 |_break_ | |
 |16:00-17:00 |Practical: [Spatial transcriptomics](./session-spatialtranscriptomics/Spatialtranscriptomics.md) | TAs |
 
 ### Day 4 (Friday 01.11.2024) 
 | When | What | Who |
 | ------------- | ------------- | ------------- |
-|09:00-09:45 |Lecture: [Trajectory inference](session-trajectories/session-trajectories.md) | Ahmed Mahfouz |
+|09:00-09:45 |Lecture: [Trajectory inference](Lectures/Day4_trajectory_inference_Mahfouz_2024.pdf) | Ahmed Mahfouz |
 |09:45-10:45 |Practical: [Trajectory inference](./session-trajectories/session-trajectories.md) | TAs |
 |10:45-11:00 |_break_ |  |
 |11:00-11:45 |Reconstructing colorectal cancer tumorigenesis with spatially-resolved gene expression profiling | Jessica Roelands (LUMC) |
